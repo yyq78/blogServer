@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1daf4f7d-5577-4493-a41f-295dfc77f5ee" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/address.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allSqlStatement/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/allSqlStatement/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allSqlStatement/userSql.js" beforeDir="false" afterPath="$PROJECT_DIR$/allSqlStatement/userSql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deleteTableList</find>
+      <find>users</find>
+      <find>List</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UKt63QsswvGcmxWkRgaGeDNbze" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1daf4f7d-5577-4493-a41f-295dfc77f5ee" name="Default" comment="" />
+      <created>1565936973927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565936973927</updated>
+      <workItem from="1565936975174" duration="2992000" />
+      <workItem from="1566008193495" duration="3348000" />
+      <workItem from="1566021036044" duration="9000" />
+      <workItem from="1566023324045" duration="11193000" />
+      <workItem from="1566177495135" duration="11175000" />
+      <workItem from="1566436163711" duration="14747000" />
+      <workItem from="1566611921549" duration="1532000" />
+      <workItem from="1569377922354" duration="17858000" />
+      <workItem from="1569491991803" duration="43000" />
+      <workItem from="1569566469136" duration="3512000" />
+      <workItem from="1569719973996" duration="5711000" />
+      <workItem from="1570498550977" duration="5688000" />
+      <workItem from="1570673098652" duration="7276000" />
+      <workItem from="1570756287792" duration="2966000" />
+      <workItem from="1570782512913" duration="2407000" />
+      <workItem from="1570844187959" duration="8543000" />
+      <workItem from="1571013949699" duration="2218000" />
+      <workItem from="1573888883140" duration="4038000" />
+      <workItem from="1573977182938" duration="592000" />
+      <workItem from="1575116936847" duration="1360000" />
+      <workItem from="1575173837574" duration="13506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
